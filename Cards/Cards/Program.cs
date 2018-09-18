@@ -59,10 +59,9 @@ namespace Cards
                             string val = number.ToString();
                             string compare = val + color;
 
-                            int i = 0;
-                            Console.WriteLine("{i}", kort);
-                            //Console.WriteLine("Ditt kort är " + done );
-                            i++;
+                            
+                            Console.WriteLine("Ditt kort är " + done );
+                           
 
                         }
 
